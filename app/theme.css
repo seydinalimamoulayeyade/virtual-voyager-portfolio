@@ -1,0 +1,44 @@
+:root {
+  --ink: #211a16;
+  --ink-soft: #65594f;
+  --surface: #f5efe6;
+  --surface-raised: #ece2d4;
+  --surface-deep: #dfd1c0;
+  --line: #cdbda9;
+  --accent: #b8502d;
+  --accent-strong: #983f22;
+  --accent-wash: #e9b9a3;
+  --indigo: #2e3a6b;
+  --selection: #c4623a;
+  --ease-odyssey: cubic-bezier(.22, 1, .36, 1);
+  --ease-snap: cubic-bezier(.16, 1, .3, 1);
+  color-scheme: light;
+}
+
+html[data-theme="dark"] {
+  --ink: #f3e9dc;
+  --ink-soft: #b9aa9c;
+  --surface: #14100d;
+  --surface-raised: #1c1612;
+  --surface-deep: #261d18;
+  --line: #49382d;
+  --accent: #d7734d;
+  --accent-strong: #e98b66;
+  --accent-wash: #65321f;
+  --indigo: #7784bd;
+  --selection: #c4623a;
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-muted: var(--ink-soft);
+  --color-surface: var(--surface);
+  --color-raised: var(--surface-raised);
+  --color-deep: var(--surface-deep);
+  --color-line: var(--line);
+  --color-accent: var(--accent);
+  --color-indigo: var(--indigo);
+  --font-sans: var(--font-inter);
+  --font-mono: var(--font-jetbrains);
+}
