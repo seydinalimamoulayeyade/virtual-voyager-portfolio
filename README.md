@@ -2,7 +2,9 @@
 
 Portfolio one-page de **Seydina Limamou Laye Yade**, Cloud & DevOps Engineer à Dakar. Une expérience éditoriale « Terminal Odyssey » qui raconte le passage du développement full stack à l’ingénierie cloud.
 
-> Emplacement recommandé pour une capture ou un GIF de démonstration.
+[Voir le portfolio en production](https://virtual-voyager-portfolio.vercel.app/)
+
+[![Aperçu Open Graph de Virtual Voyager](https://virtual-voyager-portfolio.vercel.app/opengraph-image)](https://virtual-voyager-portfolio.vercel.app/)
 
 ## Stack
 
