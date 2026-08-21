@@ -19,6 +19,7 @@ Portfolio one-page de **Seydina Limamou Laye Yade**, Cloud & DevOps Engineer à 
 - Sept chapitres visuellement distincts et animations déclenchées au scroll
 - Thèmes sombre et clair chaud persistés localement
 - Palette de commandes `Cmd/Ctrl + K`
+- CV français téléchargeable au format PDF
 - Projets publics, diagramme serverless animé et articles Medium
 - Parcours antéchronologique filtrable
 - SEO complet, Open Graph dynamique et navigation accessible

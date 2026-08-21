@@ -30,6 +30,7 @@ export default function Home() {
             <Reveal delay={.12} className="hero-actions">
               <a className="button button--primary" href="#escales">Explorer mes escales <span aria-hidden="true">↓</span></a>
               <a className="button button--ghost" href="#contact">Construisons la suite <span aria-hidden="true">↗</span></a>
+              <a className="button button--ghost" href="/cv-seydina-limamou-laye-yade.pdf" download aria-label="Télécharger le CV de Seydina Limamou Laye Yade au format PDF">Télécharger mon CV <span aria-hidden="true">↓</span></a>
             </Reveal>
             <Reveal delay={.2} className="hero-footer">
               <a className="cert-badge" href={identity.credly} target="_blank" rel="noreferrer" aria-label="Vérifier la certification AWS Certified Cloud Practitioner sur Credly">
